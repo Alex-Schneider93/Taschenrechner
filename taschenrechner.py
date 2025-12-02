@@ -20,3 +20,5 @@ elif operator == "%":
     print(f"Das Ergebnis von {zahl_1} % {zahl_2} ist {ergebnis}")
 elif operator == "a":
     print("Hallo")
+
+print("Ahihi")
