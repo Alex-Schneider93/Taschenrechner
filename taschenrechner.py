@@ -8,3 +8,8 @@ if operator == "+":
 elif operator == "-":
     ergebnis = zahl_1 - zahl_2
     print(f"Das Ergebnis von {zahl_1} - {zahl_2} ist {ergebnis}")
+elif operator == "*":
+    ergebnis = zahl_1 * zahl_2
+    print(f"Das Ergebnis von {zahl_1} * {zahl_2} ist {ergebnis}")
+
+
