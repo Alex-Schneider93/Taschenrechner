@@ -23,3 +23,5 @@ elif operator == "a":
 
 print("Ahihi")
 print("HAHAAH")
+print("Neuer Code")
+print("Noch ein neuer Code")
